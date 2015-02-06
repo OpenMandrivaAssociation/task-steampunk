@@ -1,7 +1,7 @@
 Summary:	Metapackage for various Steampunk themes, widgets etc
 Name:		task-steampunk
 Version:	3.0
-Release:	1
+Release:	2
 Group:		Graphical desktop/Other
 License:	Creative Commons Attribution-ShareAlike
 Url:		http://www.rosalinux.com
