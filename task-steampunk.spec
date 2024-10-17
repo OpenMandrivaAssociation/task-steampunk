@@ -4,7 +4,7 @@ Version:	3.0
 Release:	2
 Group:		Graphical desktop/Other
 License:	Creative Commons Attribution-ShareAlike
-Url:		http://www.rosalinux.com
+Url:		https://www.rosalinux.com
 Requires:	%{name}-kde4
 Requires:	plymouth-theme-steampunk
 BuildArch:	noarch
